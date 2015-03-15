@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='D:/Projekte/tchibo/prozesstool'
+let g:netrw_dirhist_2='C:\Windows\system32\1033'
+let g:netrw_dirhist_3='C:/Users/vanhelgen/Projekte/web/aoraki-books/0.1.4/spec'
